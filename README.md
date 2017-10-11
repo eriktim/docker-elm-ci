@@ -3,3 +3,4 @@
 * Node / Yarn
 * `elm`
 * `elm-test`
+* `elm-format`
